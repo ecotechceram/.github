@@ -1,4 +1,3 @@
-
 ---
 name: "🐛 Signaler un bug"
 about: "Signaler un dysfonctionnement"
