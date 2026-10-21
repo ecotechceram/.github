@@ -16,8 +16,8 @@ Fichiers communs que GitHub applique aux dépôts de l'organisation
 
 GitHub utilise chacun de ces fichiers pour tout dépôt de l'organisation qui
 n'a pas son propre fichier du même type, quelle que soit sa visibilité. Un
-dépôt qui définit ses propres modèles d'issue dans `.github/ISSUE_TEMPLATE`
-n'hérite plus d'aucun modèle d'issue d'ici
+dépôt qui définit ses propres modèles ou sa configuration d'issue dans
+`.github/ISSUE_TEMPLATE` n'hérite plus d'aucun modèle d'issue d'ici
 ([documentation GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)).
 
 Un changement dans ce dépôt s'applique donc aussitôt à tous les dépôts qui en

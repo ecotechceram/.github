@@ -2,9 +2,9 @@
 
 ## Signaler une vulnérabilité
 
-Si vous découvrez une vulnérabilité dans un dépôt ou un service
-d'Eco-Tech Ceram, ne la rendez pas publique : n'ouvrez ni issue, ni pull
-request, ni discussion qui la décrive.
+Si vous découvrez une vulnérabilité dans un dépôt de l'organisation
+`ecotechceram` ou dans une application qui en est issue, ne la rendez pas
+publique : n'ouvrez ni issue, ni pull request, ni discussion qui la décrive.
 
 Écrivez à **arthur.guillemasse@ecotechceram.com**, en indiquant :
 
@@ -25,5 +25,5 @@ publié reste dans l'historique.
 
 ## Ce qui suit
 
-Le signalement est examiné par le responsable des projets logiciels, qui vous
-répond et vous tient informé de sa correction.
+Nous accusons réception du signalement et vous informons des suites qui lui
+sont données.
